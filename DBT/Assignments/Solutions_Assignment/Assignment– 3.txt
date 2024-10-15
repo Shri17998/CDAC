@@ -1,0 +1,11 @@
+Assignment– 3
+
+-------- Overview of SQL.
+
+
+1) Does ANSI recognize the data type DATE?
+--> Yes, An ANSI date literal contains no time portion and must be specified in exactly the following format: DATE 'YYYY-MM-DD'
+
+
+2) Which subdivision of SQL is used to insert values in tables? 
+--> INSERT statement is used to insert values in the table.
